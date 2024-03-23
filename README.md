@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @simantinibhosale0130
-- 👀 I’m interested in Dance and Art
-- 🌱 I’m currently learning Information technology in Engineering.
+- 👋 Hi, I’m @simantini_bhosale_
+- 👀 I’m interested in Python and Designing
+- 🌱 I am Software Engineer by profession. And does UI/UX as a job.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me simantinibhosale0130@gmail.com
 
